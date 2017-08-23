@@ -1,0 +1,4 @@
+sendgrid.env
+sparkpost.env
+node_modules/
+

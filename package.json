@@ -1,0 +1,22 @@
+{
+  "name": "kohactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "chalk": "^2.1.0",
+    "clear": "0.0.1",
+    "express": "^4.15.4",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.2",
+    "sendgrid": "^5.2.2",
+    "sparkpost": "^2.1.2"
+  }
+}
