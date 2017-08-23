@@ -19,7 +19,7 @@ exports.email = function(sender, recipient, subject, text) {
     ]
   })
   .then(data => {
-    console.log(data);
+    console.log('Mail sent successfully!');
   })
   .catch(err => {
     console.log('Something went wrong');
